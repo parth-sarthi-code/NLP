@@ -47,3 +47,8 @@ Thumbs.db
 *.bin
 *.tar.gz
 *.zip
+
+# Local Viva notes & study guides
+viva*.md
+viva/
+
